@@ -5,6 +5,8 @@
 
 ## Summary
 
+This ScopeSim fork has now been archived, and ongoing development is taking place in a new repository. For more information and access, please ask Hannah Earnshaw.
+
 This instrument simulator for UVEX is based on a modified UVEX fork of AstarVienna's 
 ScopeSim package, containing custom Effects and adjustments to support a UVEX instrument 
 simulator. Changes include:
